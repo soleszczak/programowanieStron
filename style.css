@@ -1,0 +1,11 @@
+nav a{
+    text-decoration: none;
+    text-align: center;
+}
+nav a:hover{
+    color: antiquewhite;
+}
+body{
+    color: aliceblue;
+    background-color: #0D1117;
+}
