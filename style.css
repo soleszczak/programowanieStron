@@ -1,6 +1,7 @@
 nav a{
     text-decoration: none;
     text-align: center;
+    color: #5AC0FF;
 }
 nav a:hover{
     color: antiquewhite;
